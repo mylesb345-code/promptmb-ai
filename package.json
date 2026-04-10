@@ -1,0 +1,1 @@
+{\n  \"name\": \"promptmb-ai\",\n  \"version\": \"1.0.0\",\n  \"dependencies\": {\n    \"@supabase/supabase-js\": \"^2.0.0\",\n    \"@supabase/auth-helpers-nextjs\": \"^0.6.0\",\n    \"openai\": \"^3.1.0\",\n    \"stripe\": \"^8.0.0\",\n    \"octokit\": \"^2.0.0\",\n    \"jszip\": \"^3.10.1\",\n    \"axios\": \"^0.21.1\"\n  }\n}
